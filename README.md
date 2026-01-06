@@ -1,16 +1,26 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://media.tenor.com/ZoPOC5IxuGsAAAAj/gudetama-welcome.gif" width="350" align="center" alt="Hello!">
+</div>
 
-<!--
-**AidanDoo/AidanDoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
+<br>
+<br>
 
-Here are some ideas to get you started:
+# **About Me**
+### I'm Aidan, a 2nd-year CS Student @ UC Irvine!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### - Courses I am taking right now:
+- Introduction to Artificial Intelligence 🤖
+- Design and Analysis of Algorithms 📃
+- Human Computer Interaction 🧠
+- Introduction to Inductive Logic 🤔
+
+### - Hobbies:
+- Going to the gym 💪
+- Gaming 🎮
+- Reading 📖
+
+## Contact:
+[School Email](mailto:aidancd@uci.edu) | 
+[Personal Email](mailto:aidand360@gmail.com) | 
+[Github](https://github.com/AidanDoo)
