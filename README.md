@@ -24,4 +24,4 @@
 [School Email](mailto:aidancd@uci.edu) | 
 [Personal Email](mailto:aidand360@gmail.com) | 
 [Github](https://github.com/AidanDoo) | 
-[LinkedIn] (https://www.linkedin.com/in/aidan-do-a13293282/)
+[LinkedIn](https://www.linkedin.com/in/aidan-do-a13293282)
