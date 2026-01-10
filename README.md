@@ -7,7 +7,7 @@
 <br>
 
 # **About Me**
-### I'm Aidan, a 2nd-year CS Student @ UC Irvine!
+### I'm Aidan, a 2nd-year Student at UC Irvine studying Computer Science!
 
 ### - Courses I am taking right now:
 - Introduction to Artificial Intelligence 🤖
