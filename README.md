@@ -10,10 +10,10 @@
 ### I'm Aidan, a 2nd-year Student at UC Irvine studying Computer Science!
 
 ### - Courses I am taking right now:
-- Introduction to Artificial Intelligence 🤖
-- Design and Analysis of Algorithms 📃
-- Human Computer Interaction 🧠
-- Introduction to Inductive Logic 🤔
+- Machine Learning and Data-Mining 🤖
+- Information Retrieval 📃
+- Algorithms for Probabilistic and Deterministic Graphical Models🧠
+- Software Testing, Analysis, and Quality Assurance 🤔
 
 ### - Hobbies:
 - Going to the gym 💪
